@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Pavan.</h1>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=pavan-gangadhar-2001&theme=darkhub" alt="pavan-gangadhar-001" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pavang2001/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="vedant-shah2001" /></a>
@@ -30,5 +24,4 @@
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pavan-gangadhar-001&show_icons=true&theme=gotham&layout=compact" alt='Pavan Gangadhar" />
