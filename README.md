@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Pavan.</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-gangadhar-2001&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-gangadhar-001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=pavan-gangadhar-2001&theme=darkhub" alt="vedant-shah" /></a> </p>
 
