@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=pavan-gangadhar-2001&theme=darkhub" alt="vedant-shah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=pavan-gangadhar-2001&theme=darkhub" alt="pavan-gangadhar-001" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
